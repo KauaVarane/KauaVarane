@@ -1,7 +1,9 @@
 # Olá, eu sou o Kauã 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Zona Leste
+
 💻 Foco em desenvolvimento back-end
+
 📍 São Paulo, Brasil
 
 ## 🚀 Sobre mim
