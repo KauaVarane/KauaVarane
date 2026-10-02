@@ -7,7 +7,7 @@
 📍 São Paulo, Brasil
 
 ## 🚀 Sobre mim
-Estou no 4º semestre de ADS atualmente monitor de Algoritmos e Linguagem de Programação.
+Estou no 4º semestre de ADS, atualmente monitor de Algoritmos e Linguagem de Programação.
 
 ## 🛠️ Tecnologias
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
